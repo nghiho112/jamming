@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Overview
 A React music app for searching songs and adding to playlist using Spotify API
+<img width="1239" alt="Screen Shot 2023-02-14 at 10 19 00 AM" src="https://user-images.githubusercontent.com/118095364/218796067-509e844f-d302-4bea-9df0-e8564dfdd0cb.png">
 
 ## Features
 Users shall be able to:
